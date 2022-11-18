@@ -61,7 +61,6 @@ bool isEIn(string str, int curr_pos) {
 		isEIn(str, n);
 	}
 	else {
-		cout << "stop 3" << endl;
 		return false;
 	}
 
